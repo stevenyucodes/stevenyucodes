@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a data science graduate from the University of California, Berkeley. Currently I am just trying to expland and learn more. 
+
 <!--
 **stevenyucodes/stevenyucodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
