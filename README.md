@@ -1,13 +1,18 @@
 ## Hi there 👋
 
-I am a data science graduate from the University of California, Berkeley. Currently I am just trying to expland and learn more. Trying to learn more maths and computers.
+I am a data science graduate from the University of California, Berkeley. Currently I am just trying to expland and learn more. Trying to learn more math and computers.
+
+Interesting facts about me outside of academics:
+- I enjoy the gym
+- I like playing basketball and tennis
+  
 
 <!--
 **stevenyucodes/stevenyucodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on machine learning
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
