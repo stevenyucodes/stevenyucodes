@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a data science graduate from the University of California, Berkeley. Currently I am just trying to expland and learn more. Trying to learn more math and computers. Working on more projects.
+I am a data science graduate from the University of California, Berkeley. Currently I am just trying to expand and learn more. Trying to learn more math and computers. Working on more projects.
 
 Interesting facts about me outside of academics:
 - I enjoy the gym
