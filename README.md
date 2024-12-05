@@ -6,6 +6,8 @@ Interesting facts about me outside of academics:
 - I enjoy the gym
 - I like playing basketball and tennis
 
+
+- Currently looking for opportunities in the tech field. 
 Currently Learning:
 - Artificial Intelligence and Machine Learning
   
