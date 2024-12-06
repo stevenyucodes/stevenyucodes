@@ -10,6 +10,7 @@ Interesting facts about me outside of academics:
 - Currently looking for opportunities in the tech field. 
 Currently Learning:
 - Artificial Intelligence and Machine Learning
+- Statistics 
   
 
 <!--
