@@ -12,6 +12,7 @@ Interesting facts about me outside of academics:
 Currently Learning:
 
 - Artificial Intelligence and Machine Learning
+- Computer Vision
 - Statistics
 - Calculus
   
