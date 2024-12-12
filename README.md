@@ -7,7 +7,7 @@ Interesting facts about me outside of academics:
 - I like playing basketball and tennis
 
 
-- Currently looking for opportunities in the tech field.
+Currently looking for opportunities in the tech field.
   
 Currently Learning:
 
