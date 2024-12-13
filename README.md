@@ -15,6 +15,7 @@ Currently Learning:
 - Computer Vision
 - Statistics
 - Calculus
+- Finance
   
 
 <!--
