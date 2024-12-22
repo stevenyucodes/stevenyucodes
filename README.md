@@ -13,7 +13,6 @@ Currently looking for opportunities in the tech field.
 Currently Learning:
 
 - Artificial Intelligence and Machine Learning
-- Computer Vision
 - Statistics
 - Calculus
 - Finance
