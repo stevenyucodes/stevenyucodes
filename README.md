@@ -15,7 +15,7 @@ Currently Learning:
 - Artificial Intelligence and Machine Learning
 - Statistics
 - Calculus
-- Finance
+
   
 
 <!--
