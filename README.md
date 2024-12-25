@@ -8,7 +8,7 @@ Interesting facts about me outside of academics:
 - I enjoy reading
 
 
-Currently looking for opportunities in the tech field.
+- Currently looking for opportunities in the tech field.
   
 Currently Learning:
 
