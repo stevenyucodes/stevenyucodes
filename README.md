@@ -1,14 +1,12 @@
 ## Introduction 👋
 
-I am a data science graduate from the University of California, Berkeley. Currently I am just trying to expand my knowledge by learning more. Working on learning.
+I am a data science graduate from the University of California, Berkeley. Currently I am just trying to expand my knowledge by learning more. Working on learning and trying to break into tech.
 
 Interesting facts about me outside of academics:
 - I enjoy going to the gym
 - I like playing basketball and tennis
 - I enjoy reading
 
-
-- Currently looking for opportunities in the tech field.
   
 Currently Learning:
 
