@@ -4,7 +4,7 @@ I am a data science graduate from the University of California, Berkeley. Curren
 
 Interesting facts about me outside of academics:
 - I enjoy going to the gym
-- I enjoy reading
+- I like reading
 
   
 Currently Learning:
